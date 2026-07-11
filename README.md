@@ -2,7 +2,7 @@
 
 A lightweight, robust, and highly optimized C++ class designed for efficient string manipulation and processing. This library is built following strict Object-Oriented Programming (OOP) principles, offering both instance-based property mutations and stateless static utility methods.
 
-Developed and refined as part of an advanced programming curriculum to demonstrate clean code architecture, data encapsulation, and efficient memory management.
+> 🎯 **Note:** This library was developed and refined as a reusable component while studying **Course 10** in my programming path, focusing on advanced Object-Oriented Programming (OOP) concepts and clean code architecture.
 
 ---
 
